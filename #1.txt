@@ -1,0 +1,2 @@
+lsof /var/log/bad.log
+kill -9 #
