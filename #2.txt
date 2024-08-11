@@ -1,0 +1,1 @@
+cat /home/admin/access.log | awk '{print$1}'| sort | uniq -c | sort -r |head -10
