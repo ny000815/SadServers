@@ -1,0 +1,5 @@
+ping google.com
+nslookup google.com
+dig google.com
+sudo vim /etc/systemd/resolv.conf
+sudo vim /etc/nsswitch.conf
