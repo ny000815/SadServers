@@ -1,6 +1,6 @@
-#Sad Servers
+# Sad Servers
 
-##Decription
+## Decription
 This is the repository for the solution of "SadSevers"
 
 [SadServers](https://sadservers.com/)
