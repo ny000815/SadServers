@@ -1,0 +1,6 @@
+systemctl stastus apache2
+sudo iptables
+sudo iptables -D INPUT -p tcp --dport 80 -j DROP
+sudo iptables -L
+ls -l /var/www/html/index.html
+chmod 644 /var/www/html/index.html
